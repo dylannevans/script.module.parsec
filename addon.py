@@ -11,7 +11,7 @@ peer_id = 'peer_id=' + peer_id
 # Check if parsec is installed
 parsec_installed = True
 try:
-        os.system('flatpak run com.parsecgaming.parsec' + peer_id)
+        os.system('flatpak run com.parsecgaming.parsec peer_id=' + peer_id)
 except:
         xbmcgui.Dialog().ok('ERROR', 'No Parsec!\nPlease install it: flatpak install com.parsecgaming.parsec')
         print('No Parsec!\nPlease install it: flatpak install com.parsecgaming.parsec')
