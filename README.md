@@ -3,6 +3,8 @@
 ## <u>Description</u>
 
 This add-on is to launch Parsec software on a Linux based OSMC (or Kodi) machine like Raspberry Pi or a x86_64 based Ubuntu computer. Parsec is a interactive streaming software that is fine tuned for gaming. The main goal of a media center add-on like this, is to enable the media center's capability for playing games that are not actually installed on it.
+
+Shamelessly stolen and adapted for my own nefarious purposes: adapting to fedora atomic silverblue and modern kodi.  
 <br>
 <br>
 
